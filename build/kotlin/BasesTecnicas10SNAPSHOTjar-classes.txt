@@ -1,1 +1,1 @@
-C:\Users\yoniher.melendez\Documents\Git Yoniher\BasesTecnicas-Kotlin\build\classes\kotlin\main\MainKt.class
+/home/kernel/Documentos/Git/BasesTecnicas-Kotlin/build/classes/kotlin/main/MainKt.class:/home/kernel/Documentos/Git/BasesTecnicas-Kotlin/build/classes/kotlin/main/SentenciasWhenKt.class:/home/kernel/Documentos/Git/BasesTecnicas-Kotlin/build/classes/kotlin/main/SentenciaskotlinIfKt.class
