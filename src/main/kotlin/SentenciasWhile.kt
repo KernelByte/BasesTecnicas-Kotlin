@@ -16,4 +16,12 @@ fun main() {
 
     }while(constador > 9)
 
+    val listaDeFrutas = listOf("Manzana","pera","banano")
+
+    for (fruta in listaDeFrutas){
+        println("El listado de frutas es: $fruta")
+    }
+
+    listaDeFrutas.forEach { fruta -> println("El listado de frutas en el foreach es: $fruta") }
+
 }
