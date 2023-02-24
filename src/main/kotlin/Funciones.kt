@@ -1,10 +1,11 @@
 fun main() {
-    println("La suma de los numeros es: "+sumaDeNumeros(40,40))
-    imprimir()
-    println(ramdomCase("Hola mundo"))
-    println("Hola".imprimirMensaje())
+    //println("La suma de los numeros es: "+sumaDeNumeros(40,40))
+    //imprimir()
+    //println(ramdomCase("Hola mundo"))
+    //println("Hola".imprimirMensaje())
+    println(imprimirNombre(nombre = "Yoniher"))
 }
-
+/*
 // Funcion que retorna valores
 fun sumaDeNumeros(numero1: Int, numero2 : Int): Int {
     return numero1 + numero2
@@ -31,4 +32,10 @@ fun String.imprimirMensaje (): String {
     else{
         return "mensaje menor"
     }
+}*/
+
+// Valores por defecto
+fun imprimirNombre (nombre : String, apellido : String = "") : String{
+    val resultado = "El nombre escrito es: $nombre $apellido"
+    return resultado
 }
